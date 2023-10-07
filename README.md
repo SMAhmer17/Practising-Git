@@ -1,2 +1,2 @@
 # Practising-Git
-Practic
+Practice
